@@ -1,6 +1,3 @@
----
-
-```markdown
 # DevOps Interview Preparation – Azure DevOPs Engineer Role
 
 This repository is a curated list of advanced DevOps interview questions and concepts covering Kubernetes, Azure, CI/CD pipelines, infrastructure as code, containerization, and security practices. It is especially useful for roles involving Azure, GitHub/GitLab CI, and container orchestration.
